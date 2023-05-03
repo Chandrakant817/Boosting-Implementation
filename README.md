@@ -1,2 +1,2 @@
 # Boosting-Implementation
-Boosting Implementation (Ada-Boosting, Gradient Boosting, XGB)
+### Boosting Implementation (Ada-Boosting, Gradient Boosting, XGB)
